@@ -1,12 +1,12 @@
 # STA/LTA event detection and selection based on ObsPy
 
 
-![image](https://github.com/zhangzj1209/STA_LTA_event/blob/main/sla_lta.png)  
+![image](./fig/sta_lta.png)  
 
 
-We use the **ObsPy** library that has been packaged in python for STA/LTA seismic event detection and selection. The specific parameters are in `sta_lta_event.py`.   
+We use the **ObsPy** library that has been packaged in python for STA/LTA seismic event detection and selection. The specific parameters are in `./src/demo_sta_lta_event.py`.   
 
-Install obspy by Anaconda (latest version):  
+Install `obspy` by Anaconda (latest version):  
 ```
 conda install obspy
 ```
